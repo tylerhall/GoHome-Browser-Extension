@@ -18,6 +18,8 @@ I usually end up doing some version of a copy/edit/paste dance...
 
 This browser extension, when clicked, automaticaly removes the path and any query params and navigates to the "real" home page.
 
+![SS-20260128 144804 Stripe API Reference](https://github.com/user-attachments/assets/9958582d-84d2-40b0-864c-0a542cb5f47d)
+
 ## Caveats
 
 - I made this with Claude in about 5 minutes.
